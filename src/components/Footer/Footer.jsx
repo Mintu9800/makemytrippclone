@@ -12,7 +12,7 @@ const Footer= ()=>{
                     <h1><a href="ede" target={'_blank'}><FaFacebookF /></a></h1>
                 </div>
                 <div className="copyright">
-                    <h3>© 2023 <Link to={'/'}>makemytrip CLONE</Link></h3>
+                    <h3>© 2023 <Link to={'/'}>makemytrip clone</Link></h3>
                     <br/>
                     Country <h3><Link to={'/india'}>India</Link> USA UAE</h3>
                 </div>
